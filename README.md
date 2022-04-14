@@ -93,10 +93,10 @@ Here are some ideas to get you started:
 <details>
   <summary><b>Github Stats</b></summary><br/>
   <!-- <img align="left" alt="Zan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rodages&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" /> -->
-  <img align="left" alt="Zan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rodages" width="48%"/>
-  <img align="right" alt="Zan's GitHub Streak Count Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rodages" width="48%"/>
-  <img align="left" alt="Zan's GitHub Streak Count Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodages&theme=vue" width="58%"/>
-  <img align="right" align="center" alt="Zan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodages&layout=compact" width="38%"/>
+  <img alt="Zan's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=rodages"/>
+  <img alt="Zan's GitHub Streak Count Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=rodages" />
+  <img alt="Zan's GitHub Streak Count Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rodages&theme=vue" />
+  <img alt="Zan's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodages&layout=compact"/>
 
 </details>
 
