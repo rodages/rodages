@@ -1,18 +1,12 @@
 <div  align="center">
-  <h1>Hello World 👋 I am Zan - A Junior Software Engineer</h1>
+  <h1>Hello World 👋 I am Zan Makarov - A Junior Software Engineer</h1>
 </div>
-
-<!--
-**rodages/rodages** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
-- 👨‍💻 I’m currently working on the last module of Software Engineering Immersive at General Assembly!
-- 👨‍🎓 I’m currently learning Django
+- ⚡ I’m currently working on the last module of Software Engineering Immersive at General Assembly!
+- 👨‍💻 I’m currently learning Django
 - 🚀co I’m looking to collaborate on React projects.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about JavaScript -->
-- 📫 Connect with me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanmakarov/)
+- 📧 Connect with me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanmakarov/)
 
 <details><summary><b>Personal Profile</b></summary><br/>
     A Junior Full-Stack Software Engineer specialising in Web Development with React, JavaScript, CSS and HTML, confident with Node, relational database - PostgreSQL and NoSQL database – MongoDB.
@@ -69,12 +63,13 @@ Here are some ideas to get you started:
 ### Backend
 <p align="left">
 <a href="https://github.com/Tca0/FindMeADoc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node-icon" width="40" height="40"/> </a>
+ <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="Django-icon" width="40" height="40"/> </a>No projects
 <a href="https://github.com/Tca0/FindMeADoc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB-icon" width="40" height="40"/> </a> <!-- Once forked need to change link-->
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgreSQL-icon" width="40" height="40"/> </a><!-- No projects-->
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python-icon" width="40" height="40"/> </a><!-- No projects-->
 <a href="https://github.com/Tca0/FindMeADoc" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express-icon" width="40" height="40"/> </a><!-- Once forked need to change link-->
 <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pytest/pytest-original-wordmark.svg" alt="PyTest-icon" width="40" height="40"/> </a>
-<!-- <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/django/django-plain-wordmark.svg" alt="Django-icon" width="40" height="40"/> </a>No projects -->
+
 </p>
 
 ### Tools
