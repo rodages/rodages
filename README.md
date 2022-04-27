@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 -->
 - 👨‍💻 I’m currently working on the last module of Software Engineering Immersive at General Assembly!
 - 👨‍🎓 I’m currently learning Django
-- 🚀co I’m looking to collaborate on React projects.
+- 🚀 I’m looking to collaborate on React projects.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about JavaScript -->
 - 📫 Connect with me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanmakarov/)
