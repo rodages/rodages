@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <details><summary><b>Personal Profile</b></summary><br/>
     A Junior Full-Stack Software Engineer specialising in Web Development with React, JavaScript, CSS and HTML, confident with Node, relational database - PostgreSQL and NoSQL database – MongoDB.
 
-  Currently enrolled in the Software Engineering Immersive Bootcamp at General Assembly to strengthen existing programming skills, gain experience by working in collaborative environment and transition career change from Management to Tech.
+  I have recently graduated from the Software Engineering Immersive Bootcamp at General Assembly. The course helped me to strengthen my existing programming skills by building 4 projects, gain experience by working in collaborative environment and project management skills by following strict deadlines and having to plan the workload while working full-time. 
+I am now able to use these skills to increase productivity and optimise the IT side of my current employment and looking to transition career change from Management to Tech.
 
 </details>
 
