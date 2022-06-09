@@ -7,8 +7,8 @@
 
 Here are some ideas to get you started:
 -->
-- 👨‍💻 I’m currently working on the last module of Software Engineering Immersive at General Assembly!
-- 👨‍🎓 I’m currently learning Django
+- 👨‍💻 I’m currently working on creating a portfolio site!
+- 👨‍🎓 I’m currently learning NextJS.
 - 🚀 I’m looking to collaborate on React projects.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about JavaScript -->
@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 </details>
 
 <details><summary> <b>General Assembly Software Engineering Immersive Projects</b> </summary><blockquote>
+  
+ <details><summary><b> Project 4 - Company Planner </b></summary><blockquote>
+  <h3> <a href="https://companyplanner.netlify.app"> Visit Site </a> | <a href="https://github.com/rodages/Project4-CompanyPlanner-client"> See Frontend ReadMe </a> | <a href="https://github.com/rodages/Project4-CompanyPlanner-API"> See Backend ReadMe </a> <h3>
+          <ul>
+          <li> Used React and ‘React-Bootstrap’ for frontend, Python and Django REST for backend to create RESTful API.  </li>
+          <li> A  platform aimed to solve a real-life problem at current employment by reducing paper waste and making data more centralised and accessible </li>
+          </ul></blockquote>
+</details>
 
 <details><summary><b> Project 3 - Find Me A Doc </b></summary><blockquote>
   <h3> <a href="https://findmedoc.netlify.app/"> Visit Site </a> | <a href="https://github.com/rodages/project-3-findMeADoc-front-end"> See Frontend ReadMe </a> | <a href="https://github.com/Tca0/FindMeADoc"> See Backend ReadMe </a> <h3>
