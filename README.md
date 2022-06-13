@@ -7,11 +7,11 @@
 
 Here are some ideas to get you started:
 -->
-- 👨‍💻 I’m currently working on creating a portfolio site!
-- 👨‍🎓 I’m currently learning NextJS.
-- 🚀 I’m looking to collaborate on React projects.
+- 👨‍💻 I have recently graduated from **General Assembly's Software Engineering Immersive** and looking for an entry level position.
+- 👨‍🎓 I’m currently learning **DSA, TypeScript**.
+- 🚀 I’m looking to collaborate on **MERN** projects.
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about JavaScript -->
+- 💬 Ask me about anything you think I could help you with.
 - 📫 Connect with me on [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zanmakarov/)
 
 <details><summary><b>Personal Profile</b></summary><br/>
